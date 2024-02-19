@@ -24,10 +24,10 @@ save_ris_file(content, filename="output.ris"): Saves the formatted RIS content t
 
 Install the requests library if not already installed: pip install requests
 Run the script and enter the DOI when prompted: python ris_from_doi.py
-The script fetches the metadata, formats it into RIS, saves it to a file named output.ris, and prints the content.  
+The script fetches the metadata, formats it into RIS, saves it to a file named output.ris, and prints the content.
 
-
-
+<br>
+<br>
 
 # ris_from_csv.py.
 
