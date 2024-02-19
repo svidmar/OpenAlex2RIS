@@ -1,8 +1,11 @@
 # OpenAlex2RIS
 Send DOIs to the OpenAlex API and get RIS files in return, which can be imported to reference managers, research information systems etc. 
+<br>
+![alt text](https://github.com/svidmar/OpenAlex2RIS/blob/9bb1f1b3fc8b09e0cf91054361c854077ec2243d/ris.png)
 Consists of two scripts:
-
+<br>
 ris_from_doi: Send a single DOI to the API and get a RIS file in return
+<br>
 ris_from_csv: Send a list of DOIs in a csv and get x RIS files in return
 
 
